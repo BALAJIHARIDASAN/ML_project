@@ -22,3 +22,15 @@ conda  activate venv/
 create requirements.txt
 
 create setup.py file 
+
+create src folder 
+
+components :  modules created for the project
+
+1. data ingestion 
+
+2. data transformation
+
+3. model_trainer
+
+4. 
