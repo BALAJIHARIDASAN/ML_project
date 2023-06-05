@@ -33,4 +33,13 @@ components :  modules created for the project
 
 3. model_trainer
 
-4. 
+pipeline : process step for project
+
+1. train 
+
+2. predict
+
+create logging 
+
+create exception handling
+
