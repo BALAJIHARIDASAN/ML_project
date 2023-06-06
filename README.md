@@ -37,3 +37,12 @@ create requirements.txt
 create src folder (package should be mentioned with __init__.py file( this will make as the package))
 
 3. run - pip install -r requirements.txt (TO install the packages required for project)
+
+
+project structure on src folder
+
+1. components
+
+a. data ingestion 
+
+b. pipeline 
