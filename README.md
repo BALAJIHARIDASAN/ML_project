@@ -27,7 +27,7 @@ creating the environment:
 
 activating the environment
 
-1. conda activate venv/
+2. conda activate venv/
 
 
 create setup.py
@@ -35,3 +35,5 @@ create setup.py
 create requirements.txt
 
 create src folder (package should be mentioned with __init__.py file( this will make as the package))
+
+3. run - pip install -r requirements.txt (TO install the packages required for project)
