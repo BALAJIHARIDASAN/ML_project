@@ -50,3 +50,7 @@ project structure on src folder
     c. model_trainer
 
 2. pipeline
+
+    a. train_pipe
+
+    b. predict_pipe
