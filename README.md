@@ -17,5 +17,5 @@ process:
 
 7. creating logging and exception 
 
-8 . creating the project structure for package
+8. creating the project structure for package
 
