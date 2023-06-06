@@ -43,6 +43,10 @@ project structure on src folder
 
 1. components
 
-a. data ingestion 
+    a. data ingestion 
 
-b. pipeline 
+    b. data_transformation
+
+    c. model_trainer
+
+2. pipeline
