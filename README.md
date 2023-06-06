@@ -19,3 +19,12 @@ process:
 
 8. creating the project structure for package
 
+
+
+creating the environment:
+
+1. conda create -p venv python==3.8 -y
+
+activating the environment
+
+1. conda activate venv/
