@@ -34,3 +34,4 @@ create setup.py
 
 create requirements.txt
 
+create src folder (package should be mentioned with __init__.py file( this will make as the package))
