@@ -28,3 +28,9 @@ creating the environment:
 activating the environment
 
 1. conda activate venv/
+
+
+create setup.py
+
+create requirements.txt
+
