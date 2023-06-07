@@ -43,7 +43,7 @@ project structure on src folder
 
 1. components
 
-    a. data ingestion 
+    a. data ingestion(This file helps to read the data)
 
     b. data_transformation
 
@@ -54,3 +54,5 @@ project structure on src folder
     a. train_pipe
 
     b. predict_pipe
+
+
